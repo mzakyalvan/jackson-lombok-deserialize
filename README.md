@@ -367,3 +367,8 @@ public class ModifiedPropertiesDeserializerTests {
 ```
 
 Browse this project for details.
+
+## Inspired By
+
+- https://blog.d46.us/java-immutable-lombok/
+- https://groups.google.com/forum/#!topic/project-lombok/PGyFNUP-Ofs
