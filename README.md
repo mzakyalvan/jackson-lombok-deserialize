@@ -1,10 +1,12 @@
 # README
 
+## Introduction
+
 This project is poc for json deserialization using builder object generated using [lombok's](https://projectlombok.org/contributing/lombok-execution-path) ```@Builder``` annotation.
 
 Motivation is to create immutable object as input for concurrent programming.
 
-As alternatives, you can use setter method with package access modifier, on in Spring Mvc land, instruct data binder of your request to use field access binding.
+As alternatives, you can use setter method with package access modifier, or in Spring Mvc land, instruct data binder of your request to use direct field access binding.
 
 ## Prepare Project
 
